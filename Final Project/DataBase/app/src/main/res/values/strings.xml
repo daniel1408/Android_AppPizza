@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Pizzaria Comunista</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ogin">Login</string>
+
+    <!--login-->
+    <string name="login_txtUsuario">Usuario: </string>
+    <string name="login_txtSenha">Senha: </string>
+    <string name="login_btnSenha">Entrar </string>
+    <string name="login_cbxConectado">Manter conectado? </string>
+    <string name="textUsuario">Usuario Obrigatorio </string>
+    <string name="textSenha">Senha Obrigatoria </string>
+
+    <!--AutoCompleteText-->
+    <string-array name="countries_array">
+        <item> Monte carmelo </item>
+        <item> Monte Alegre de Minas </item>
+        <item> Monte Azul </item>
+        <item> Monte Belo </item>
+        <item> Monte Sião </item>
+        <item> Montes Claros </item>
+        <item> Montezuma </item>
+        <item> Morada Nova de Minas </item>
+        <item> Morro da Garça </item>
+        <item> Morro do Pilar </item>
+        <item> Munhoz </item>
+        <item> Muriaé </item>
+        <item> Mutum </item>
+        <item> Muzambinho </item>
+        <item> Machado </item>
+        <item> Mariana </item>
+        <item> Maripá de Minas </item>
+        <item> Matozinhos </item>
+        <item> Matias Cardoso </item>
+        <item> Medina </item>
+        <item> Medeiros </item>
+        <item> Mendes Pimentel </item>
+        <item> Mesquita </item>
+        <item> Miraí </item>
+        <item> Uberlandia </item>
+        <item> Uberaba </item>
+
+    </string-array>
+
+
+    <color name="cinza">#FFFFFF</color>
+    <color name="cinza3">#FF0000</color>
+    <color name="cinza2">#ffcdd2</color>
+
+
+    //Escolha da pizza
+    <string name="textView">Selecione a pizza</string>
+    <string-array name="Pizzas">
+        <item>Atum</item>
+        <item>Bacon</item>
+        <item>Calabresa</item>
+        <item>Frango</item>
+        <item>Presunto</item>
+        <item>4 Queijos</item>
+    </string-array>
+
+    <string name="btn_confirmar">Confirmar </string>
+    <string name="btn_voltar">Voltar </string>
+    <string name="Cbtn_Confirmar">Enviar Avaliação </string>
+
+
+</resources>

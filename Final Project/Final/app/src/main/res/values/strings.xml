@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image</string>
+
+    <string-array name="Pizzas">
+        <item>Atum</item>
+        <item>Bacon</item>
+        <item>Calabresa</item>
+        <item>Frango</item>
+        <item>Presunto</item>
+        <item>4 Queijos</item>
+    </string-array>
+
+</resources>
